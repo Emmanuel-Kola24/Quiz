@@ -39,7 +39,7 @@ let results = [];
 // Example questions and answers
 const questions = [
     { question: "What is 2 + 2?", answer: "4", options: ["3", "4", "5", "6"] },
-    { question: "What is the capital of France?", answer: "Paris", options: ["London", "Berlin", "Paris", "Madrid"] },
+    { question: "How many permanent teeth does a dog have?", answer: "42", options: ["42", "30", "32", "28"] },
     { question: "What is 5 x 5?", answer: "25", options: ["20", "25", "30", "35"] },
     { question: "What is the largest ocean?", answer: "Pacific", options: ["Atlantic", "Indian", "Pacific", "Arctic"] },
     { question: "What is the square root of 16?", answer: "4", options: ["2", "4", "8", "16"] },
